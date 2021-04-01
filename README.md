@@ -1,4 +1,3 @@
 # sloth-ecommerce
-Sloth
 
-## Test
+Sloth
